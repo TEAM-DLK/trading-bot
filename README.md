@@ -20,7 +20,7 @@ Prerequisites
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/trading-bot.git
+git clone https://github.com/TEAM-DLK/trading-bot.git
 cd trading-bot
 
 2. Install Dependencies
@@ -89,7 +89,3 @@ Contributing
 	3.	Commit your changes (git commit -am 'Add feature').
 	4.	Push to the branch (git push origin feature-name).
 	5.	Open a pull request.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
