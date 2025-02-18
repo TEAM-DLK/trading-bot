@@ -1,0 +1,17 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "description": "A trading bot for MEXC Futures",
+  "main": "tradingBot.js",
+  "scripts": {
+    "start": "node tradingBot.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
